@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="238aa4ea-bf72-491c-96ef-3cba1ea0a9c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Hello/Lara.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Hello/Lara.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Hello/Someone.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Hello/Someone.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/HelloWorld.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/HelloWorld.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -41,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602034308711</updated>
-      <workItem from="1602034320255" duration="2187000" />
+      <workItem from="1602034320255" duration="5612000" />
+      <workItem from="1602040190761" duration="209000" />
     </task>
     <servers />
   </component>
